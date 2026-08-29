@@ -16,6 +16,6 @@ DESCARGA EL ARCHIVO .ZIP ARRIBA
 
 4.DISFRUTA EL JUEGO!.
 
-link de la traducción para android: 
+link de la traducción para android: https://github.com/Bunuelos-Asociados/TheFalseSun-ES/releases/tag/1.0
 
 Versión 1.0
